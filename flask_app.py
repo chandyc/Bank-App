@@ -606,6 +606,7 @@ def get_html_header(title, active_page):
             margin-bottom: 32px;
             animation: fadeUp 0.6s ease-out 0.1s both;
             height: 400px;
+            width: 100%;
         }}
         
         /* Charts Grid */
@@ -780,6 +781,7 @@ def get_html_header(title, active_page):
             .chart-container {{
                 height: 300px;
                 padding: 20px;
+                width: 100%;
             }}
             
             .history-table {{
